@@ -1,6 +1,6 @@
 # Site settings
 title: dfoxx
-email: david@dfoxx.com
+email: dfoxx@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
   if you don't know, now you know...
 baseurl: "/papers/" # the subpath of your site, e.g. /blog/
